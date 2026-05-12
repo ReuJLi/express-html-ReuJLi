@@ -54,11 +54,15 @@ nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
-}   
+    padding: 8px 16px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
 
 nav ul li a:hover {
-    text-decoration: underline;
+    background-color: #8B1A2B;
     color: #B8962E;
+    text-decoration: none;
 }
 
 a {
@@ -99,3 +103,31 @@ img {
     margin: 0 auto;
     border: 3px solid #8B1A2B;
 }
+
+/* Mobile Responsive */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    main {
+        margin: 10px;
+        padding: 15px;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    footer {
+        font-size: 12px;
+        padding: 8px;
+    }
+}
+
