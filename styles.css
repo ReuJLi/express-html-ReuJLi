@@ -50,10 +50,6 @@ nav ul li {
     margin: 0 15px;
 }
 
-li {
-    display: inline;
-}
-
 nav ul li a {
     color: white;
     text-decoration: none;
