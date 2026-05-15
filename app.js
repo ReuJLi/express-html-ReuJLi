@@ -12,6 +12,10 @@ app.get('/', (req, res) => {
   res.render('index')
 })
 
+app.use((req, res) => {
+  res.status(404).render('404')
+})
+
 app.listen(3000, () => {
   console.log('Server running at http://localhost:3000')
 })
