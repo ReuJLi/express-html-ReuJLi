@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Basketball",
+    "description": "Open gym and intramural available.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  },
+  {
+    "name": "Volleyball",
+    "description": "Co-ed recreational and competitive play.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  },
+  {
+    "name": "Soccer",
+    "description": "Outdoor fields available for open play and tournaments.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  },
+  {
+    "name": "Pickleball",
+    "description": "Fun for all skill levels, equipment provided.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  },
+  {
+    "name": "Badminton",
+    "description": "Outdoor fields available for open play and tournaments.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  },
+  {
+    "name": "Flag Football",
+    "description": "Outdoor fields available for open play and tournaments.",
+    "schedule": "Open gym : Monday - Saturday 5-11pm Intramural schedule available weekly on Instagram" 
+  }
+]

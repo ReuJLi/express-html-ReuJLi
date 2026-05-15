@@ -1,0 +1,10 @@
+<h1>Sports & Activities</h1>
+<ul>
+  <% sports.forEach(sport => { %>
+    <li>
+      <h2><%= sport.name %></h2>
+      <p><%= sport.description %></p>
+      <p><strong>Schedule:</strong> <%= sport.schedule %></p>
+    </li>
+  <% }) %>
+</ul>
